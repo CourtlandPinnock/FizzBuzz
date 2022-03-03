@@ -1,0 +1,8 @@
+Take user input
+start from 1.
+count to user num.
+If number can be divided by three.
+print FIZZ.
+If number can be divided by five print BUZZ.
+If number can be divided by both print fizzbuzz.
+
